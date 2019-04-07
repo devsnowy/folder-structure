@@ -4,4 +4,4 @@ This repository will contain the folder templates made to solve the daily busine
 
 Feel free to remove any directory and the .gitignore files once you copy the folders.
 
-find . -type f -name .gitignore -exec rm {} \;
+`find . -type f -name .gitignore -exec rm {} \;`
