@@ -7,3 +7,5 @@ Feel free to remove any directory and the .gitignore files once you copy the fol
 Before running this command make sure you are in the correct path!
 
 `find . -type f -name .gitignore -exec rm {} \;`
+
+We recommend not to place your Security folders on the same server as the others.
